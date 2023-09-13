@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<windows.h>
 int main(){
-    int a=0;
+    int a=0;//
     while(a<=80){
         system("cls");
         int b=1;
